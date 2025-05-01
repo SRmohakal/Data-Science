@@ -43,10 +43,10 @@ Outliers are data points that significantly differ from the rest of the dataset.
 #### **2. Statistical Methods**  
 - **Z-Score (Standard Score Method)**  
   - Measures how many standard deviations a value is from the mean.  
-  - Formula:  
-    \[
-    Z = \frac{X - \mu}{\sigma}
-    \]
+  - Formula:
+    ``` 
+    Z = (X - μ) / σ
+    ```
   - A common threshold is **|Z| > 3**.  
 
   ```python
@@ -61,7 +61,8 @@ Outliers are data points that significantly differ from the rest of the dataset.
 
 - **Interquartile Range (IQR) Method**  
   - Outliers lie outside **1.5 times** the IQR.  
-  - Formula:  
+  - Formula:
+  ```
     \[
     IQR = Q3 - Q1
     \]
@@ -71,7 +72,7 @@ Outliers are data points that significantly differ from the rest of the dataset.
     \[
     \text{Upper Bound} = Q3 + 1.5 \times IQR
     \]
-  
+  ```
   ```python
   import numpy as np
   
