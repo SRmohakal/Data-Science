@@ -63,15 +63,9 @@ Outliers are data points that significantly differ from the rest of the dataset.
   - Outliers lie outside **1.5 times** the IQR.  
   - Formula:
   ```
-    \[
     IQR = Q3 - Q1
-    \]
-    \[
-    \text{Lower Bound} = Q1 - 1.5 \times IQR
-    \]
-    \[
-    \text{Upper Bound} = Q3 + 1.5 \times IQR
-    \]
+    Lower Bound = Q1 - 1.5 x IQR
+    Upper Bound = Q3 + 1.5 x IQR
   ```
   ```python
   import numpy as np
