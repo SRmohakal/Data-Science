@@ -1,6 +1,5 @@
 # **Ensemble Modeling** 🚀  
-
-## **What is Ensemble Modeling?**  
+ 
 Ensemble modeling is a technique in data science where multiple models (weak learners) are combined to improve overall performance. Instead of relying on a single model, ensemble methods aggregate multiple predictions to achieve **higher accuracy, lower variance, and better generalization**.  
 
 🔹 **Why use ensemble models?**  
