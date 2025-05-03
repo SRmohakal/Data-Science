@@ -130,9 +130,9 @@ print("Will they buy?", log_model.predict([[45]])[0])
 
 ### **5️⃣ Ridge and Lasso Regression**
 
-✔ **Ridge Regression** → Adds **L2 regularization** (penalty on large coefficients).
-✔ **Lasso Regression** → Adds **L1 regularization** (reduces feature importance).
-✔ Helps prevent **overfitting** in complex models.
+✔ **Ridge Regression** → Adds **L2 regularization** (penalty on large coefficients). <br>
+✔ **Lasso Regression** → Adds **L1 regularization** (reduces feature importance). <br>
+✔ Helps prevent **overfitting** in complex models. <br>
 
 🔹 **Python Example (Ridge Regression):**
 
