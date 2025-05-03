@@ -149,10 +149,10 @@ ridge_model.fit(X, y)
 
 To measure performance, we use:
 
-1️⃣ **Mean Absolute Error (MAE)** → Average absolute differences
-2️⃣ **Mean Squared Error (MSE)** → Average squared differences
-3️⃣ **Root Mean Squared Error (RMSE)** → Square root of MSE
-4️⃣ **R² Score (Coefficient of Determination)** → Measures model fit (higher is better)
+1️⃣ **Mean Absolute Error (MAE)** → Average absolute differences <br>
+2️⃣ **Mean Squared Error (MSE)** → Average squared differences <br>
+3️⃣ **Root Mean Squared Error (RMSE)** → Square root of MSE <br>
+4️⃣ **R² Score (Coefficient of Determination)** → Measures model fit (higher is better) <br>
 
 🔹 **Python Example:**
 
@@ -170,18 +170,18 @@ print("R² Score:", r2_score(y_test, y_pred))
 
 ## **🔹 When to Use Regression?**
 
-✔ Predicting **continuous numerical values**
-✔ Understanding **relationships between variables**
-✔ Identifying **trends in data**
+✔ Predicting **continuous numerical values** <br>
+✔ Understanding **relationships between variables** <br>
+✔ Identifying **trends in data** <br>
 
 ---
 
 ## **🔹 Summary 🚀**
 
-✅ **Linear Regression** → Simple relationships
-✅ **Multiple Regression** → Multiple features
-✅ **Polynomial Regression** → Non-linear patterns
-✅ **Logistic Regression** → For classification
-✅ **Ridge & Lasso Regression** → To prevent overfitting
+✅ **Linear Regression** → Simple relationships <br>
+✅ **Multiple Regression** → Multiple features <br>
+✅ **Polynomial Regression** → Non-linear patterns <br>
+✅ **Logistic Regression** → For classification <br>
+✅ **Ridge & Lasso Regression** → To prevent overfitting <br>
 
 ---
