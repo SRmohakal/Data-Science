@@ -61,10 +61,10 @@ Chebyshev Distance: 4.0
 
 ## **4️⃣ Applications of Chebyshev Distance in Data Science 🚀**
 
-📌 **Chessboard Problems** → Used in chess AI for king's movement
-📌 **Manufacturing & Logistics** → Minimizing the max deviation in process control
-📌 **Pattern Recognition** → Used in image processing for **texture analysis**
-📌 **Routing & Pathfinding** → Helps in grid-based movement (e.g., warehouse robots)
+📌 **Chessboard Problems** → Used in chess AI for king's movement <br>
+📌 **Manufacturing & Logistics** → Minimizing the max deviation in process control <br>
+📌 **Pattern Recognition** → Used in image processing for **texture analysis** <br>
+📌 **Routing & Pathfinding** → Helps in grid-based movement (e.g., warehouse robots) <br>
 
 ---
 
@@ -81,10 +81,3 @@ Chebyshev Distance: 4.0
 
 ---
 
-## **Conclusion 🎯**
-
-✅ **Chebyshev distance measures the maximum absolute difference**
-✅ **Used in chess, logistics, and image processing**
-✅ **Ideal for grid-based pathfinding & pattern recognition**
-
-Would you like **visualizations** or **comparisons with real-world datasets**? 🚀
